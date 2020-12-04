@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://github.com/hoangvanthien/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/hoangvanthien/github-stats/blob/master/generated/languages.svg)
+
 Welcome to my GitHub page. I'm currently a final-year undergrad, majoring in Software Engineering.
 
 Nevertheless, I have a huge knack for Mathematics. I hope I'd dive into a research career later in life. 🙈
