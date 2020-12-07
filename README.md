@@ -8,9 +8,11 @@ Since you're here, I'd kindly ask you to visit [my blog](https://www.tvhoang.com
 
 Have a good day 🤟
 
-![](https://github.com/hoangvanthien/github-stats/blob/master/generated/overview.svg)
+<p align="center">
+<img src="https://github.com/hoangvanthien/github-stats/blob/master/generated/overview.svg">
+<img src="https://github.com/hoangvanthien/github-stats/blob/master/generated/languages.svg">
+</p>
 
-![](https://github.com/hoangvanthien/github-stats/blob/master/generated/languages.svg)
 <!--
 **hoangvanthien/hoangvanthien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
